@@ -51,7 +51,9 @@ curl -X 'POST' 'http://127.0.0.1:8000/predict_item' \
 ```
 
 Скрин:
-
+<p align="center">
+  <img src="screen1.png" width="500" title="hover text">
+</p>
 
 Для обработки файла:
 ```
@@ -76,5 +78,5 @@ Mahindra Xylo E4 BS IV,2010,229999,168000,Diesel,Individual,Manual,First Owner,1
 Файлы `cars_test.csv` и `processed_file.csv` приложены.
 
 
-
-PS: Кот не знаю чей, точно не мой.
+## Кот
+Похож на кота моих соседей. Копается в покетах, оставленных курьером у двери.
